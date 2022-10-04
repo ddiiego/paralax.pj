@@ -29,3 +29,31 @@ body {
     background-attachment: fixed;
     background-size: cover; /*para a imagem ocupar todo o espaço */
 }
+
+h1 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+    margin: 0;
+    display: table-cell;
+    text-align: center;
+    align-items: center;
+    vertical-align: middle;
+    
+}
+
+p {
+    font-family: 'segoe UI';
+    color: black;
+    margin: 0;
+    display: table-cell;
+    vertical-align: middle;
+    align-items: center;
+}
+
+#branco {
+    display: table;
+    height: 50vh;
+    width: 100%;
+}
